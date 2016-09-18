@@ -20,3 +20,20 @@ body {
     height: 200px;
 }
 
+.Heading{ 
+            
+        margin:0 auto;
+          color:red;
+           font-family: Monospace;
+            font-size: 26px;
+             border-color: green;
+              border-width: 10px;
+               border-style: solid;
+                border-radius: 50%;
+        }
+.bag{
+            margin:0 auto;
+             font-size: 16px;
+              font-family: Monospace;
+                 color: blue;
+        }
